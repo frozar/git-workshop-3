@@ -21,7 +21,7 @@ Instructions
    - une fois ces étapes réalisées, Github verra que la Pull Request associée à la branche `prenom-nom` ne présente plus de conflit et permettra de l'accepter
  - à la fin de l'activité, le dépôt du groupe doit avoir :
    - un historique avec des ponts qui représentent les différents merges
-   - une la branche principale et les branches de développement
+   - une branche principale et les branches de développement
 
 Pour se faire, vous aurez besoin de l'ensemble des savoirs des workshops précédents, plus les commandes git suivantes :
  - **push -f** : forcer la propagation de la branche sur un dépôt distant malgré une divergence 
